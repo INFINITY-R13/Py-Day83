@@ -1,35 +1,45 @@
-# Portfolio Website
+# Raghuraj Singh - Portfolio Website
 
-A modern, responsive portfolio website to showcase your skills and projects.
+A modern, responsive portfolio website showcasing skills and projects with a beautiful light pink theme.
 
 ## Features
 
-- Responsive design for all devices
-- Smooth scrolling navigation
-- Interactive project showcase
-- Contact form with validation
-- Modern animations and effects
+- **Light Pink Theme**: Elegant and modern color scheme
+- **Responsive Design**: Works perfectly on all devices
+- **Smooth Navigation**: Seamless scrolling between sections
+- **Interactive Elements**: Hover effects and animations
+- **Project Showcase**: Featured projects with tech stacks
+- **Contact Form**: Functional form with validation
+- **Professional Layout**: Clean, organized presentation
+
+## Sections
+
+- **Hero**: Personal introduction with call-to-action
+- **About**: Background and statistics
+- **Skills**: Technical abilities organized by category
+- **Projects**: Featured work with descriptions and links
+- **Contact**: Get in touch form and social links
+
+## Technologies Used
+
+- HTML5 (Semantic structure)
+- CSS3 (Flexbox, Grid, Animations)
+- JavaScript (Interactive functionality)
+- Font Awesome Icons
+- Google Fonts (Inter)
 
 ## Getting Started
 
 1. Open `index.html` in your web browser
-2. Customize with your personal information
-3. Replace placeholder content with your projects
-4. Deploy to your hosting platform
+2. View the complete portfolio website
+3. Customize projects and links as needed
+4. Deploy to your preferred hosting platform
 
-## Customization
+## Color Scheme
 
-- Update personal details in the hero and contact sections
-- Add your actual projects in the projects section
-- Modify skills to match your expertise
-- Replace social media links with your profiles
+- Primary: Pink (#ec4899)
+- Backgrounds: Light pink gradients
+- Text: Dark gray (#374151)
+- Accents: Various pink shades
 
-## Technologies
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome Icons
-- Google Fonts
-
-Perfect for showcasing your development skills!
+Perfect for showcasing development skills with a unique, professional appearance!
