@@ -160,7 +160,7 @@ window.addEventListener('scroll', () => {
 const style = document.createElement('style');
 style.textContent = `
     .nav-link.active {
-        color: #2563eb !important;
+        color: #ec4899 !important;
         position: relative;
     }
     
@@ -171,7 +171,7 @@ style.textContent = `
         left: 0;
         width: 100%;
         height: 2px;
-        background: #2563eb;
+        background: #ec4899;
     }
 `;
 document.head.appendChild(style);
